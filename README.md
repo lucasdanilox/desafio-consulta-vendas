@@ -10,14 +10,13 @@ Trata-se de um projeto de vendas (Sale) e vendedores (Seller). Cada venda está 
 # Tecnologias utilizadas
 ## Back end
 
--Java
--Maven
--Spring Boot
--Spring Data JPA
--Hibernate
--Lombok
--H2 Database
--Git e Github
+* Java
+* Maven
+* Spring Boot
+* Spring Data JPA
+* Hibernate
+* H2 Database
+* Git e Github
 
 # Autor
 
